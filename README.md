@@ -26,6 +26,7 @@ Before running, in a file `SeedDB.sh`, replace `{SomeDB}` on the name of the dat
 ### Second way:
 The launch takes place by executing several commands.
 Before executing commands, in a file `SeedDB.sh` in `Docker` folder, replace `{SomeDB}` on the name of the database.
+
 Containers are started using the command from `Docker` folder:
 ```
 docker-compose up -d
