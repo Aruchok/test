@@ -19,9 +19,9 @@ There are 2 ways to launch: run through power shell scripts or through commands 
 
 ### First way:
 Before running, in a file `SeedDB.sh`, replace `{SomeDB}` with the name of the database.
-1)Launch script `Start.ps1` from `Docker` folder.
-3)For to work ontop from the folder above, launch the `RunOntop.bat` file.
-4)To complete the work, launch the `Stop.ps1` script from the `Docker` folder.
+1. Launch script `Start.ps1` from `Docker` folder.
+2. For to work ontop from the folder above, launch the `RunOntop.bat` file.
+3. To complete the work, launch the `Stop.ps1` script from the `Docker` folder.
 
 ### Second way:
 The launch takes place by executing several commands.
