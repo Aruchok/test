@@ -18,7 +18,7 @@ At the root of the `Docker` folder are files for filling the database.
 There are 2 ways to launch: run through power shell scripts or through commands in the console.
 
 ### First way:
-Before running, in a file `SeedDB.sh`, replace `{SomeDB}` with the name of the database.
+Before running, in a file `SeedDB.sh`, replace `{SomeDB}` on the name of the database.
 1. Launch script `Start.ps1` from `Docker` folder.
 2. For to work ontop from the folder above, launch the `RunOntop.bat` file.
 3. To complete the work, launch the `Stop.ps1` script from the `Docker` folder.
