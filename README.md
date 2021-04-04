@@ -5,7 +5,7 @@
 - The `docker-compose.yml` is run only from the `Docker` folder.
 - Fill in the fields in the file `demo.properties`:
 ```
-	- jdbc.url=jdbc:postgresql://127.0.0.1:5400/{SomeDB}, replace {SomeDB} name of the database
+	- jdbc.url=jdbc:postgresql://127.0.0.1:5400/{SomeDB}, (replace {SomeDB} name of the database)
 	- jdbc.user
 	- jdbc.password
 	- jdbc.name
